@@ -2,6 +2,8 @@
 --------------------------
 Welcome to **Yakuza Runner**! 🎮 This is a **fast-paced 2D side-scrolling game** featuring **unlimited levels**, **multiple playable characters**, and a **global leaderboard**. Designed with **pixel-art visuals**, this game offers an exciting and competitive experience across multiple platforms.
 
+![Game Preview](https://github.com/user-attachments/assets/b680aeff-022d-413e-ac31-d50fc00c626b)
+
 ## 🔥 Freelancing Project 🔥
 This game was developed as a **freelancing project**, completed over the span of **one year** to bring a thrilling **endless runner experience** to players worldwide.
 
